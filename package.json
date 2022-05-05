@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.18.1"
+  },
+  "name": "sdm_a1",
+  "description": "Prova A1 da UC de Sistemas Distribuídos e Mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AokiLucas/SDM_A1.git"
+  },
+  "author": "Aoki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AokiLucas/SDM_A1/issues"
+  },
+  "homepage": "https://github.com/AokiLucas/SDM_A1#readme",
+  "devDependencies": {}
+}
